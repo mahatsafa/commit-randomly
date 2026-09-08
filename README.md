@@ -1,34 +1,41 @@
-\# commit-randomly
+# 🧪 commit-randomly
+
+> Catatan harian belajar berbagai bahasa pemrograman — snippet kecil, eksperimen syntax, dan progres yang naik turun tergantung mood. 😄
+
+![Languages](https://img.shields.io/badge/languages-40%2B-blue)
+![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
+![Last Update](https://img.shields.io/badge/updates-daily-orange)
+
+## 📖 Tentang
+
+Repo ini tempat nyimpen potongan kode kecil pas lagi belajar bahasa baru atau nyoba-nyoba syntax yang belum familiar. Isinya sengaja gak rapi/terstruktur — namanya juga proses belajar, kadang loncat dari satu bahasa ke bahasa lain tergantung yang lagi menarik dipelajari hari itu.
+
+## 🗂️ Struktur
 
 
+## 🌐 Bahasa yang pernah disentuh
 
-Repo kecil buat nyimpen catatan/snippet harian pas lagi belajar berbagai bahasa pemrograman. Isinya random banget, kadang syntax dasar, kadang cuma coba-coba struktur kode di bahasa yang belum pernah dicoba.
+| Kategori | Bahasa |
+|---|---|
+| Web/Frontend | JavaScript, TypeScript, Dart |
+| Systems | C, C++, Rust, Zig, D, Nim, Crystal, V |
+| Backend | Python, Java, C#, Go, Kotlin, Swift, Ruby, PHP, Scala, Groovy, Lua |
+| Functional | Haskell, OCaml, F#, Elixir, Erlang, Clojure, Scheme, Racket |
+| Scripting | Bash, PowerShell, Perl, R |
+| Data/Config | SQL, JSON, YAML, TOML, XML |
+| JVM/Mobile | Kotlin, Java, Swift, Dart |
 
+## 📊 Live Stats
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=mahatsafa&theme=dark&hide_border=true)
 
-\## Kenapa isinya berantakan?
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahatsafa&show_icons=true&theme=dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatsafa&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
+## 💭 Progres
 
-Karena ini emang bukan project serius — lebih ke tempat "buang" hasil belajar dikit-dikit tiap hari. Kadang nambah beberapa baris di satu bahasa, besoknya pindah ke bahasa lain, tergantung mood dan waktu luang.
+Belajar dikit-dikit tiap hari, gak buru-buru. Repo ini semacam pengingat biar tetap konsisten walau isinya cuma potongan kecil kode yang belum tentu nyambung satu sama lain.
 
-
-
-\## Struktur
-
-
-
-\- `notes.<ext>` — kumpulan snippet kecil per bahasa (Python, Rust, Go, Zig, Haskell, dll)
-
-\- `snippets.txt` — daftar cuplikan kode yang lagi dipelajari, dipakai buat referensi cepat
-
-\- `log.txt` — catatan aktivitas harian
-
-
-
-\## Progres
-
-
-
-Belajar sedikit-sedikit tiap hari lebih baik daripada belajar banyak sekali lalu berhenti. Repo ini semacam pengingat buat tetap konsisten, walau isinya cuma potongan kecil kode yang belum tentu nyambung satu sama lain.
-
+---
+*Updated secara berkala mengikuti waktu belajar yang tersedia.*
