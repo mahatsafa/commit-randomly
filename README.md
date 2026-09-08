@@ -2,7 +2,7 @@
 
 > Catatan harian belajar berbagai bahasa pemrograman — snippet kecil, eksperimen syntax, dan progres yang naik turun tergantung mood. 😄
 
-![Languages](https://img.shields.io/badge/languages-40%2B-blue)
+![Languages](https://img.shields.io/badge/languages-15-blue)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
 
