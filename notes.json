@@ -1,0 +1,6 @@
+{
+  "greeting": "hello practice",
+  "nums": [1, 2, 3],
+  "doubled": [2, 4, 6],
+  "note": "TODO: try nested objects next"
+}
