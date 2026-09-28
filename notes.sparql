@@ -1,0 +1,2 @@
+# sparql notes - 2026-09-28 19:35:31
+# SELECT * WHERE { ?s ?p ?o }
