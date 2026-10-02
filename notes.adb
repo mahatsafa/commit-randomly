@@ -1,0 +1,2 @@
+-- ada notes - 2026-10-02 10:22:42
+-- Put_Line("practice");
