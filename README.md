@@ -1,29 +1,164 @@
 # 🧪 commit-randomly
 
-> Catatan harian belajar berbagai bahasa pemrograman — snippet kecil, eksperimen syntax, dan progres yang naik turun tergantung mood. 😄
+> Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Languages](https://img.shields.io/badge/languages-50-blue)
+![Materi](https://img.shields.io/badge/materi-0%2F50-blue)
+![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
 
 ## 📖 Tentang
 
-Repo ini tempat nyimpen potongan kode kecil pas lagi belajar bahasa baru atau nyoba-nyoba syntax yang belum familiar. Isinya sengaja gak rapi/terstruktur — namanya juga proses belajar, kadang loncat dari satu bahasa ke bahasa lain tergantung yang lagi menarik dipelajari hari itu.
+Repo ini tempat menyimpan latihan saat mempelajari bahasa pemrograman. Setiap bahasa punya foldernya sendiri. Materinya berurutan dari konsep dasar (variabel, percabangan, perulangan) sampai topik yang lebih dalam (OOP, concurrency, pointer), dan ditutup dengan proyek kecil.
+
+Setiap file berdiri sendiri, berisi komentar penjelasan dalam Bahasa Indonesia, dan bisa langsung dijalankan.
 
 ## 🗂️ Struktur
 
+```
+commit-randomly/
+├── python/        # dasar → OOP → proyek to-do CLI
+├── javascript/    # array method, async/await, class, proyek kalkulator
+├── typescript/    # tipe dasar, interface, generic, union
+├── go/            # slice/map, struct, error, goroutine, HTTP server
+├── rust/          # ownership, enum/match, Result/Option, trait
+├── c/             # pointer, string, struct + linked list
+├── java/          # OOP, collection & stream
+├── sql/           # DDL, SELECT, JOIN, GROUP BY, subquery, transaksi
+├── bash/          # variabel, loop, fungsi, script server
+├── snippets/      # potongan kode pendek harian
+└── arsip/         # file lama
+```
 
-## 🌐 Bahasa yang pernah disentuh
+## ▶️ Cara Menjalankan
 
-| Kategori | Bahasa |
+| Bahasa | Perintah |
 |---|---|
-| Web/Frontend | JavaScript, TypeScript, Dart |
-| Systems | C, C++, Rust, Zig, D, Nim, Crystal, V |
-| Backend | Python, Java, C#, Go, Kotlin, Swift, Ruby, PHP, Scala, Groovy, Lua |
-| Functional | Haskell, OCaml, F#, Elixir, Erlang, Clojure, Scheme, Racket |
-| Scripting | Bash, PowerShell, Perl, R |
-| Data/Config | SQL, JSON, YAML, TOML, XML |
-| JVM/Mobile | Kotlin, Java, Swift, Dart |
+| Python | `python3 python/01_variabel_tipe_data.py` |
+| JavaScript | `node javascript/01_variabel.js` |
+| TypeScript | `npx tsx typescript/01_tipe_dasar.ts` |
+| Go | `go run go/01_hello.go` |
+| Rust | `rustc rust/01_variabel.rs -o /tmp/r && /tmp/r` |
+| C | `gcc c/01_hello.c -o /tmp/c && /tmp/c` |
+| Java | `java java/01_Hello.java` (Java 11+) |
+| SQL | jalankan berurutan di MySQL/MariaDB: `mariadb latihan < sql/01_create_table.sql` |
+| Bash | `bash bash/01_variabel.sh` |
+
+<!-- PROGRESS_START -->
+## 📈 Progres Belajar
+
+| Bahasa | Materi | Baris kode |
+|---|---|---|
+| 🐍 Python | 0 / 10 | 0 |
+| 🟨 JavaScript | 0 / 8 | 0 |
+| 🔷 TypeScript | 0 / 4 | 0 |
+| 🐹 Go | 0 / 6 | 0 |
+| 🦀 Rust | 0 / 5 | 0 |
+| ⚙️ C | 0 / 4 | 0 |
+| ☕ Java | 0 / 3 | 0 |
+| 🗄️ SQL | 0 / 5 | 0 |
+| 🐚 Bash | 0 / 5 | 0 |
+| **Total** | **0 / 50** | **0** |
+
+## 🗺️ Roadmap
+
+<details><summary><b>🐍 Python</b></summary>
+
+- [ ] variabel tipe data
+- [ ] percabangan
+- [ ] perulangan
+- [ ] fungsi
+- [ ] list dict
+- [ ] string method
+- [ ] file io
+- [ ] oop class
+- [ ] exception
+- [ ] proyek todo cli
+
+</details>
+
+<details><summary><b>🟨 JavaScript</b></summary>
+
+- [ ] variabel
+- [ ] array method
+- [ ] object destructuring
+- [ ] fungsi arrow
+- [ ] promise async
+- [ ] class
+- [ ] closure
+- [ ] proyek kalkulator
+
+</details>
+
+<details><summary><b>🔷 TypeScript</b></summary>
+
+- [ ] tipe dasar
+- [ ] interface
+- [ ] generic
+- [ ] union narrowing
+
+</details>
+
+<details><summary><b>🐹 Go</b></summary>
+
+- [ ] hello
+- [ ] slice map
+- [ ] struct method
+- [ ] error
+- [ ] goroutine
+- [ ] http server
+
+</details>
+
+<details><summary><b>🦀 Rust</b></summary>
+
+- [ ] variabel
+- [ ] ownership
+- [ ] struct enum
+- [ ] result option
+- [ ] trait
+
+</details>
+
+<details><summary><b>⚙️ C</b></summary>
+
+- [ ] hello
+- [ ] pointer
+- [ ] array string
+- [ ] struct linkedlist
+
+</details>
+
+<details><summary><b>☕ Java</b></summary>
+
+- [ ] Hello
+- [ ] OOP
+- [ ] Collection
+
+</details>
+
+<details><summary><b>🗄️ SQL</b></summary>
+
+- [ ] create table
+- [ ] select where
+- [ ] join
+- [ ] group by
+- [ ] subquery view
+
+</details>
+
+<details><summary><b>🐚 Bash</b></summary>
+
+- [ ] variabel
+- [ ] if loop
+- [ ] fungsi
+- [ ] cek disk
+- [ ] backup sederhana
+
+</details>
+
+_Terakhir diperbarui: 2026-10-05_
+<!-- PROGRESS_END -->
 
 ## 📊 Live Stats
 
@@ -33,9 +168,5 @@ Repo ini tempat nyimpen potongan kode kecil pas lagi belajar bahasa baru atau ny
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatsafa&layout=compact&theme=dark&hide_border=true&langs_count=10)
 
-## 💭 Progres
-
-Belajar dikit-dikit tiap hari, gak buru-buru. Repo ini semacam pengingat biar tetap konsisten walau isinya cuma potongan kecil kode yang belum tentu nyambung satu sama lain.
-
 ---
-*Updated secara berkala mengikuti waktu belajar yang tersedia.*
+*Materi baru ditambahkan bertahap. Bagian progres dan roadmap diperbarui otomatis.*
