@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-3%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-4%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -56,9 +56,9 @@ commit-randomly/
 | 🦀 Rust | 0 / 5 | 0 |
 | ⚙️ C | 0 / 4 | 0 |
 | ☕ Java | 0 / 3 | 0 |
-| 🗄️ SQL | 0 / 5 | 0 |
+| 🗄️ SQL | 1 / 5 | 28 |
 | 🐚 Bash | 0 / 5 | 0 |
-| **Total** | **3 / 50** | **40** |
+| **Total** | **4 / 50** | **68** |
 
 ## 🗺️ Roadmap
 
@@ -139,7 +139,7 @@ commit-randomly/
 
 <details><summary><b>🗄️ SQL</b></summary>
 
-- [ ] create table
+- [x] [create table](sql/01_create_table.sql)
 - [ ] select where
 - [ ] join
 - [ ] group by
@@ -157,7 +157,7 @@ commit-randomly/
 
 </details>
 
-_Terakhir diperbarui: 2026-10-06_
+_Terakhir diperbarui: 2026-10-07_
 <!-- PROGRESS_END -->
 
 ## 📊 Live Stats
