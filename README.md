@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-5%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-6%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -53,12 +53,12 @@ commit-randomly/
 | 🟨 JavaScript | 1 / 8 | 12 |
 | 🔷 TypeScript | 0 / 4 | 0 |
 | 🐹 Go | 1 / 6 | 11 |
-| 🦀 Rust | 0 / 5 | 0 |
+| 🦀 Rust | 1 / 5 | 14 |
 | ⚙️ C | 0 / 4 | 0 |
 | ☕ Java | 0 / 3 | 0 |
 | 🗄️ SQL | 1 / 5 | 28 |
 | 🐚 Bash | 1 / 5 | 11 |
-| **Total** | **5 / 50** | **79** |
+| **Total** | **6 / 50** | **93** |
 
 ## 🗺️ Roadmap
 
@@ -112,7 +112,7 @@ commit-randomly/
 
 <details><summary><b>🦀 Rust</b></summary>
 
-- [ ] variabel
+- [x] [variabel](rust/01_variabel.rs)
 - [ ] ownership
 - [ ] struct enum
 - [ ] result option
