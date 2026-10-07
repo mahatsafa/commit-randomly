@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-4%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-5%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -57,8 +57,8 @@ commit-randomly/
 | ⚙️ C | 0 / 4 | 0 |
 | ☕ Java | 0 / 3 | 0 |
 | 🗄️ SQL | 1 / 5 | 28 |
-| 🐚 Bash | 0 / 5 | 0 |
-| **Total** | **4 / 50** | **68** |
+| 🐚 Bash | 1 / 5 | 11 |
+| **Total** | **5 / 50** | **79** |
 
 ## 🗺️ Roadmap
 
@@ -149,7 +149,7 @@ commit-randomly/
 
 <details><summary><b>🐚 Bash</b></summary>
 
-- [ ] variabel
+- [x] [variabel](bash/01_variabel.sh)
 - [ ] if loop
 - [ ] fungsi
 - [ ] cek disk
