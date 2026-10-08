@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-8%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-9%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -55,10 +55,10 @@ commit-randomly/
 | 🐹 Go | 1 / 6 | 11 |
 | 🦀 Rust | 1 / 5 | 14 |
 | ⚙️ C | 1 / 4 | 10 |
-| ☕ Java | 0 / 3 | 0 |
+| ☕ Java | 1 / 3 | 10 |
 | 🗄️ SQL | 1 / 5 | 28 |
 | 🐚 Bash | 1 / 5 | 11 |
-| **Total** | **8 / 50** | **125** |
+| **Total** | **9 / 50** | **135** |
 
 ## 🗺️ Roadmap
 
@@ -131,7 +131,7 @@ commit-randomly/
 
 <details><summary><b>☕ Java</b></summary>
 
-- [ ] Hello
+- [x] [Hello](java/01_Hello.java)
 - [ ] OOP
 - [ ] Collection
 
