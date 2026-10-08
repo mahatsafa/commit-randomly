@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-6%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-7%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -54,11 +54,11 @@ commit-randomly/
 | 🔷 TypeScript | 0 / 4 | 0 |
 | 🐹 Go | 1 / 6 | 11 |
 | 🦀 Rust | 1 / 5 | 14 |
-| ⚙️ C | 0 / 4 | 0 |
+| ⚙️ C | 1 / 4 | 10 |
 | ☕ Java | 0 / 3 | 0 |
 | 🗄️ SQL | 1 / 5 | 28 |
 | 🐚 Bash | 1 / 5 | 11 |
-| **Total** | **6 / 50** | **93** |
+| **Total** | **7 / 50** | **103** |
 
 ## 🗺️ Roadmap
 
@@ -122,7 +122,7 @@ commit-randomly/
 
 <details><summary><b>⚙️ C</b></summary>
 
-- [ ] hello
+- [x] [hello](c/01_hello.c)
 - [ ] pointer
 - [ ] array string
 - [ ] struct linkedlist
@@ -157,7 +157,7 @@ commit-randomly/
 
 </details>
 
-_Terakhir diperbarui: 2026-10-07_
+_Terakhir diperbarui: 2026-10-08_
 <!-- PROGRESS_END -->
 
 ## 📊 Live Stats
