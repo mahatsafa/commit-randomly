@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-7%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-8%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -51,14 +51,14 @@ commit-randomly/
 |---|---|---|
 | 🐍 Python | 1 / 10 | 17 |
 | 🟨 JavaScript | 1 / 8 | 12 |
-| 🔷 TypeScript | 0 / 4 | 0 |
+| 🔷 TypeScript | 1 / 4 | 22 |
 | 🐹 Go | 1 / 6 | 11 |
 | 🦀 Rust | 1 / 5 | 14 |
 | ⚙️ C | 1 / 4 | 10 |
 | ☕ Java | 0 / 3 | 0 |
 | 🗄️ SQL | 1 / 5 | 28 |
 | 🐚 Bash | 1 / 5 | 11 |
-| **Total** | **7 / 50** | **103** |
+| **Total** | **8 / 50** | **125** |
 
 ## 🗺️ Roadmap
 
@@ -92,7 +92,7 @@ commit-randomly/
 
 <details><summary><b>🔷 TypeScript</b></summary>
 
-- [ ] tipe dasar
+- [x] [tipe dasar](typescript/01_tipe_dasar.ts)
 - [ ] interface
 - [ ] generic
 - [ ] union narrowing
