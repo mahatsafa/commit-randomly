@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-9%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-10%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -49,7 +49,7 @@ commit-randomly/
 
 | Bahasa | Materi | Baris kode |
 |---|---|---|
-| 🐍 Python | 1 / 10 | 17 |
+| 🐍 Python | 2 / 10 | 43 |
 | 🟨 JavaScript | 1 / 8 | 12 |
 | 🔷 TypeScript | 1 / 4 | 22 |
 | 🐹 Go | 1 / 6 | 11 |
@@ -58,14 +58,14 @@ commit-randomly/
 | ☕ Java | 1 / 3 | 10 |
 | 🗄️ SQL | 1 / 5 | 28 |
 | 🐚 Bash | 1 / 5 | 11 |
-| **Total** | **9 / 50** | **135** |
+| **Total** | **10 / 50** | **161** |
 
 ## 🗺️ Roadmap
 
 <details><summary><b>🐍 Python</b></summary>
 
 - [x] [variabel tipe data](python/01_variabel_tipe_data.py)
-- [ ] percabangan
+- [x] [percabangan](python/02_percabangan.py)
 - [ ] perulangan
 - [ ] fungsi
 - [ ] list dict
@@ -157,7 +157,7 @@ commit-randomly/
 
 </details>
 
-_Terakhir diperbarui: 2026-10-08_
+_Terakhir diperbarui: 2026-10-09_
 <!-- PROGRESS_END -->
 
 ## 📊 Live Stats
