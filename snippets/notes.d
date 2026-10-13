@@ -14,3 +14,5 @@ void main() {
     writeln(doubled);
 }
 // TODO: try templates next
+// d notes - 2026-10-13 18:55:33
+// import std.stdio;
