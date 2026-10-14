@@ -16,3 +16,5 @@ void main() {
 // TODO: try templates next
 // d notes - 2026-10-13 18:55:33
 // import std.stdio;
+// d notes - 2026-10-14 13:07:32
+// import std.stdio;
