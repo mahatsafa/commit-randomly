@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-28%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-29%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -50,7 +50,7 @@ commit-randomly/
 | Bahasa | Materi | Baris kode |
 |---|---|---|
 | 🐍 Python | 4 / 10 | 109 |
-| 🟨 JavaScript | 3 / 8 | 72 |
+| 🟨 JavaScript | 4 / 8 | 94 |
 | 🔷 TypeScript | 3 / 4 | 106 |
 | 🐹 Go | 3 / 6 | 103 |
 | 🦀 Rust | 3 / 5 | 109 |
@@ -58,7 +58,7 @@ commit-randomly/
 | ☕ Java | 3 / 3 | 140 |
 | 🗄️ SQL | 3 / 5 | 98 |
 | 🐚 Bash | 3 / 5 | 82 |
-| **Total** | **28 / 50** | **913** |
+| **Total** | **29 / 50** | **935** |
 
 ## 🗺️ Roadmap
 
@@ -82,7 +82,7 @@ commit-randomly/
 - [x] [variabel](javascript/01_variabel.js)
 - [x] [array method](javascript/02_array_method.js)
 - [x] [object destructuring](javascript/03_object_destructuring.js)
-- [ ] fungsi arrow
+- [x] [fungsi arrow](javascript/04_fungsi_arrow.js)
 - [ ] promise async
 - [ ] class
 - [ ] closure
