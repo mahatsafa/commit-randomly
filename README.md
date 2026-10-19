@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-41%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-42%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -49,7 +49,7 @@ commit-randomly/
 
 | Bahasa | Materi | Baris kode |
 |---|---|---|
-| 🐍 Python | 5 / 10 | 153 |
+| 🐍 Python | 6 / 10 | 182 |
 | 🟨 JavaScript | 5 / 8 | 136 |
 | 🔷 TypeScript | 4 / 4 | 155 |
 | 🐹 Go | 5 / 6 | 189 |
@@ -58,7 +58,7 @@ commit-randomly/
 | ☕ Java | 3 / 3 | 140 |
 | 🗄️ SQL | 5 / 5 | 161 |
 | 🐚 Bash | 5 / 5 | 166 |
-| **Total** | **41 / 50** | **1489** |
+| **Total** | **42 / 50** | **1518** |
 
 ## 🗺️ Roadmap
 
@@ -69,7 +69,7 @@ commit-randomly/
 - [x] [perulangan](python/03_perulangan.py)
 - [x] [fungsi](python/04_fungsi.py)
 - [x] [list dict](python/05_list_dict.py)
-- [ ] string method
+- [x] [string method](python/06_string_method.py)
 - [ ] file io
 - [ ] oop class
 - [ ] exception
