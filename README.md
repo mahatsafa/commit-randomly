@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-39%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-40%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -57,8 +57,8 @@ commit-randomly/
 | ⚙️ C | 4 / 4 | 172 |
 | ☕ Java | 3 / 3 | 140 |
 | 🗄️ SQL | 5 / 5 | 161 |
-| 🐚 Bash | 4 / 5 | 117 |
-| **Total** | **39 / 50** | **1375** |
+| 🐚 Bash | 5 / 5 | 166 |
+| **Total** | **40 / 50** | **1424** |
 
 ## 🗺️ Roadmap
 
@@ -153,11 +153,11 @@ commit-randomly/
 - [x] [if loop](bash/02_if_loop.sh)
 - [x] [fungsi](bash/03_fungsi.sh)
 - [x] [cek disk](bash/04_cek_disk.sh)
-- [ ] backup sederhana
+- [x] [backup sederhana](bash/05_backup_sederhana.sh)
 
 </details>
 
-_Terakhir diperbarui: 2026-10-18_
+_Terakhir diperbarui: 2026-10-19_
 <!-- PROGRESS_END -->
 
 ## 📊 Live Stats
