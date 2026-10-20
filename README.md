@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-43%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-44%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -52,13 +52,13 @@ commit-randomly/
 | 🐍 Python | 6 / 10 | 182 |
 | 🟨 JavaScript | 6 / 8 | 183 |
 | 🔷 TypeScript | 4 / 4 | 155 |
-| 🐹 Go | 5 / 6 | 189 |
+| 🐹 Go | 6 / 6 | 255 |
 | 🦀 Rust | 5 / 5 | 217 |
 | ⚙️ C | 4 / 4 | 172 |
 | ☕ Java | 3 / 3 | 140 |
 | 🗄️ SQL | 5 / 5 | 161 |
 | 🐚 Bash | 5 / 5 | 166 |
-| **Total** | **43 / 50** | **1565** |
+| **Total** | **44 / 50** | **1631** |
 
 ## 🗺️ Roadmap
 
@@ -106,7 +106,7 @@ commit-randomly/
 - [x] [struct method](go/03_struct_method.go)
 - [x] [error](go/04_error.go)
 - [x] [goroutine](go/05_goroutine.go)
-- [ ] http server
+- [x] [http server](go/06_http_server.go)
 
 </details>
 
