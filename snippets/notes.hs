@@ -1,0 +1,2 @@
+-- haskell notes - 2026-10-20 20:04:04
+-- main = putStrLn "wip"
