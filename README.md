@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-47%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-48%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -50,7 +50,7 @@ commit-randomly/
 | Bahasa | Materi | Baris kode |
 |---|---|---|
 | 🐍 Python | 8 / 10 | 283 |
-| 🟨 JavaScript | 7 / 8 | 208 |
+| 🟨 JavaScript | 8 / 8 | 288 |
 | 🔷 TypeScript | 4 / 4 | 155 |
 | 🐹 Go | 6 / 6 | 255 |
 | 🦀 Rust | 5 / 5 | 217 |
@@ -58,7 +58,7 @@ commit-randomly/
 | ☕ Java | 3 / 3 | 140 |
 | 🗄️ SQL | 5 / 5 | 161 |
 | 🐚 Bash | 5 / 5 | 166 |
-| **Total** | **47 / 50** | **1757** |
+| **Total** | **48 / 50** | **1837** |
 
 ## 🗺️ Roadmap
 
@@ -86,7 +86,7 @@ commit-randomly/
 - [x] [promise async](javascript/05_promise_async.js)
 - [x] [class](javascript/06_class.js)
 - [x] [closure](javascript/07_closure.js)
-- [ ] proyek kalkulator
+- [x] [proyek kalkulator](javascript/08_proyek_kalkulator.js)
 
 </details>
 
