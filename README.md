@@ -2,7 +2,7 @@
 
 > Catatan dan latihan belajar pemrograman lintas bahasa: dari dasar sampai proyek kecil, ditambah sedikit demi sedikit setiap hari.
 
-![Materi](https://img.shields.io/badge/materi-48%2F50-blue)
+![Materi](https://img.shields.io/badge/materi-49%2F50-blue)
 ![Bahasa](https://img.shields.io/badge/bahasa-9-purple)
 ![Status](https://img.shields.io/badge/status-ongoing-brightgreen)
 ![Last Update](https://img.shields.io/badge/updates-daily-orange)
@@ -49,7 +49,7 @@ commit-randomly/
 
 | Bahasa | Materi | Baris kode |
 |---|---|---|
-| 🐍 Python | 8 / 10 | 283 |
+| 🐍 Python | 9 / 10 | 321 |
 | 🟨 JavaScript | 8 / 8 | 288 |
 | 🔷 TypeScript | 4 / 4 | 155 |
 | 🐹 Go | 6 / 6 | 255 |
@@ -58,7 +58,7 @@ commit-randomly/
 | ☕ Java | 3 / 3 | 140 |
 | 🗄️ SQL | 5 / 5 | 161 |
 | 🐚 Bash | 5 / 5 | 166 |
-| **Total** | **48 / 50** | **1837** |
+| **Total** | **49 / 50** | **1875** |
 
 ## 🗺️ Roadmap
 
@@ -72,7 +72,7 @@ commit-randomly/
 - [x] [string method](python/06_string_method.py)
 - [x] [file io](python/07_file_io.py)
 - [x] [oop class](python/08_oop_class.py)
-- [ ] exception
+- [x] [exception](python/09_exception.py)
 - [ ] proyek todo cli
 
 </details>
@@ -157,7 +157,7 @@ commit-randomly/
 
 </details>
 
-_Terakhir diperbarui: 2026-10-21_
+_Terakhir diperbarui: 2026-10-22_
 <!-- PROGRESS_END -->
 
 ## 📊 Live Stats
