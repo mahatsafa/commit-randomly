@@ -1,0 +1,2 @@
+-- vhdl notes - 2026-10-30 22:38:27
+-- entity practice is end;
