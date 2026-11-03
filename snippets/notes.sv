@@ -4,3 +4,5 @@
 // module practice; endmodule
 // systemverilog notes - 2026-10-26 20:46:17
 // module practice; endmodule
+// systemverilog notes - 2026-11-03 12:12:41
+// module practice; endmodule
