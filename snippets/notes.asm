@@ -4,3 +4,5 @@
 ; mov eax, 1
 ; assembly notes - 2026-10-29 19:10:34
 ; mov eax, 1
+; assembly notes - 2026-11-04 18:13:13
+; mov eax, 1
