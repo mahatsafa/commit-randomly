@@ -8,3 +8,5 @@
 % disp('practice')
 % matlab notes - 2026-11-03 13:09:04
 % disp('practice')
+% matlab notes - 2026-11-06 12:14:49
+% disp('practice')
