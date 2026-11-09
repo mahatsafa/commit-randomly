@@ -4,3 +4,5 @@
 -- entity practice is end;
 -- vhdl notes - 2026-11-07 22:01:22
 -- entity practice is end;
+-- vhdl notes - 2026-11-09 18:05:26
+-- entity practice is end;
