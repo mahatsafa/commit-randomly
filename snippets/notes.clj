@@ -2,3 +2,5 @@
 ; (println "practice")
 ; clojure notes - 2026-10-21 21:44:28
 ; (println "practice")
+; clojure notes - 2026-11-11 10:24:33
+; (println "practice")
