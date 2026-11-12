@@ -1,0 +1,2 @@
+-- purescript notes - 2026-11-12 16:52:12
+-- main = log "wip"
