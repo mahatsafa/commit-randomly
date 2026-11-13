@@ -8,3 +8,5 @@
 -- main = putStrLn "wip"
 -- haskell notes - 2026-11-08 08:22:01
 -- main = putStrLn "wip"
+-- haskell notes - 2026-11-13 09:01:38
+-- main = putStrLn "wip"
