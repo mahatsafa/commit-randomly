@@ -6,3 +6,5 @@
 // #include <stdio.h>
 // c notes - 2026-11-02 08:56:33
 // #include <stdio.h>
+// c notes - 2026-11-16 14:47:43
+// #include <stdio.h>
