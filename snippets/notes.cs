@@ -14,3 +14,5 @@
 // Console.WriteLine("wip");
 // csharp notes - 2026-11-16 18:37:12
 // Console.WriteLine("wip");
+// csharp notes - 2026-11-17 08:41:23
+// Console.WriteLine("wip");
