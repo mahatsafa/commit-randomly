@@ -2,3 +2,5 @@
 -- main = log "wip"
 -- purescript notes - 2026-11-15 15:06:04
 -- main = log "wip"
+-- purescript notes - 2026-11-20 10:50:19
+-- main = log "wip"
