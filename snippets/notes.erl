@@ -10,3 +10,5 @@
 % io:format("wip~n").
 % erlang notes - 2026-11-03 14:40:25
 % io:format("wip~n").
+% erlang notes - 2026-11-23 11:56:02
+% io:format("wip~n").
