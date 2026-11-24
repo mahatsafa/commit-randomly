@@ -16,3 +16,5 @@
 # Write-Output "practice"
 # powershell notes - 2026-11-18 21:22:31
 # Write-Output "practice"
+# powershell notes - 2026-11-24 13:29:31
+# Write-Output "practice"
