@@ -8,3 +8,5 @@
 ; (println "practice")
 ; clojure notes - 2026-11-18 21:09:44
 ; (println "practice")
+; clojure notes - 2026-11-26 18:41:44
+; (println "practice")
